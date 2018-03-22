@@ -4,3 +4,4 @@ The template moodle-cluster is a complex template and have more services on it t
 
 
 
+https://github.com/julialamenza/Moodle-CloudFormation/blob/master/moodle.png?raw=true
